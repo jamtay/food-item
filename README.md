@@ -1,4 +1,6 @@
 # Project
+Project is written using go to see how to create an api using go
+
 This is an API designed to store food items.  Storing data including
 - ID
 - Name
